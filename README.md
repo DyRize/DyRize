@@ -11,7 +11,7 @@
 
 <!-- - 🤝 I’m looking for help with **...** -->
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://www.dylanleflour.fr/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://www.dylanleflour.fr/) (redesign in progress)
 
 <!-- - 📝 I regularly write articles on [...](...) -->
 
