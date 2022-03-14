@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dylan Le Flour</h1>
 <h3 align="center">I am a French apprentice in Computer & Multimedia Engineering at the Conservatoire National des Arts et Métiers. I'm also an apprenticeship student in a company called Evoliz, which produces an online management and invoicing software. I am a full stack developer in my company, which leads me to develop new features and to fix bugs reported by the customer service.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dyrize" alt="dyrize" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dyrize" alt="dyrize" /></a> </p> -->
+
+---
+
+#### 🐺About me
 
 - 🔭 I’m currently working on **my brand new Vue.js portfolio**
 
@@ -23,7 +27,72 @@
 
 <!-- - ⚡ Fun fact **...** -->
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 📈Stats
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dyrize&theme=dracula&hide_border=true)
+
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyrize&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="dyrize" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dyrize&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="dyrize" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dyrize&theme=highcontrast&hide_border=true" alt="dyrize" />
+</p>
+
+
+---
+
+### 🖥️Professional experience
+
+#### *09/2019 - today* : **Fullstack web developer** at [Evoliz](https://www.evoliz.com/) - La Garde (83)
+- Work-study program with the CNAM IT engineering school
+- Front-End and Back-End development of the clients' application
+- Development of the back office for customer service
+- Development of a Rest API in Laravel
+- Development of a PHP SDK to facilitate the use of the API
+- Bug fixes
+
+#### *01/2019 - 02/2019* : BTS intership at [Evoliz](https://www.evoliz.com/) - La Garde (83)
+- Visual redesign and various improvements on the Administrator part of the Evoliz software in order to make the tool consistent with the front office part and to make it more intuitive and pleasant to use.
+Follow-up of the improvement requests from the Customer Service team using this Administrator part on a daily basis and management of the authorizations to limit access to certain types of users.
+Implementation of an agile methodology like Scrum with code reviews, print retrospectives, planning of the different tasks of the sprints and the use of a Scrum Board managed by a Scrum Master.
+
+#### *05/2018 - 06/2018* : BTS internship at CPAM of Toulon (83)
+- Development of an application to group all the accounting tables in order to reduce data entry and errors and increase efficiency.
+The assembly of tables allowing to know the points of great expenditure to be able to answer the requests of economy of the National Fund.
+The data entered is sensitive since it concerns the accounts of the CPAM du Var, and is therefore archived each year for modification or addition of late invoices.
+With a volume of several million expenses per year, a monthly control as well as a duplicate management are necessary.
+
+---
+
+### 🌍Personal investment
+
+#### *Since 2021* : [Time for the Planet](https://www.time-planet.com/en) **associate and shareholder**
+- Financial participation to develop durable and sustainbly innovations for a more desirable future.
+
+---
+
+### 👨‍🎓Education
+#### *09/2019 - today* : [CNAM IT engineering school](https://formation.cnam.fr/rechercher-par-discipline/ingenieur-e-informatique-et-multimedia-technologies-du-jeu-video-et-systemes-interactifs-1275873.kjsp) - Toulon (83)
+- OOP, web development, algorithmics, Unity3D, signal processing, databases, UX/UI design, Agile and team management, software engineering, entrepreneurship, OS theory, cognitive psychology, introduction to research and innovation, sentiment analysis, low level networking
+- Last year option: Big Data
+- Participation in student life as a class representative and member of the Student Office (BDE in french)
+- **Thesis topic**: *The design of an API and the various SDKs that result from it*
+
+#### *09/2017 - 06/2019* : [BTS SIO](https://bts-sio.lyc-bonaparte.fr/) SLAM - Bonaparte High School, Toulon (83)
+- OOP, web development, databases, basis of network management, IT asset management, algorithmics, Android development, Agile and project management, cybersecurity, economics and IT law
+- 5th in inter-academic ranking
+
+#### *09/2014 - 06/2017* : Sciences and technologies for industry and sustainable development bachelor's degree (Bac STI2D) - Rouvière High School, Toulon (83)
+
+---
+
+### 👨‍💻Formations / Certifications
+- CNIL: RGPD Workshop (2020)
+- TOEIC: 900/990 (2021)
+- Udemy: Vue.js
+
+
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dyrize_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dyrize_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dleflour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dleflour" height="30" width="40" /></a>
@@ -36,4 +105,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dyrize&show_icons=true&locale=en" alt="dyrize" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dyrize&" alt="dyrize" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dyrize&" alt="dyrize" /></p> -->
