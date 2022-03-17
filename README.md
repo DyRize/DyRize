@@ -15,7 +15,7 @@
 
 <!-- - 🤝 I’m looking for help with **...** -->
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://www.dylanleflour.fr/) (redesign in progress)
+- 👨‍💻 All of my projects are available at [my portfolio](https://www.dylanleflour.fr/) (website under maintenance, not available at the moment)
 
 <!-- - 📝 I regularly write articles on [...](...) -->
 
@@ -23,7 +23,7 @@
 
 - 📫 You can reach me on **contact@dylanleflour.fr**
 
-- 📄 Know about my experiences [here](https://www.dylanleflour.fr/about)
+- 📄 Know about my experiences [here](https://www.dylanleflour.fr/about) (website under maintenance, not available at the moment)
 
 <!-- - ⚡ Fun fact **...** -->
 
