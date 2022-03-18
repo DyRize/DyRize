@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dylan Le Flour</h1>
 <h3 align="center">I am a French apprentice in Computer & Multimedia Engineering at the Conservatoire National des Arts et Métiers. I'm also an apprenticeship student in a company called Evoliz, which produces an online management and invoicing software. I am a full stack developer in my company, which leads me to develop new features and to fix bugs reported by the customer service.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dyrize&label=Profile%20views&color=0e75b6&style=flat" alt="dyrize" /> </p>
+
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dyrize" alt="dyrize" /></a> </p> -->
 
 ---
