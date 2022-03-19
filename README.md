@@ -9,15 +9,15 @@
 
 #### 🐺About me
 
-- 🔭 I’m currently working on **my brand new Vue.js portfolio**
+- 🔭 I’m currently working on **my brand new Vue.js portfolio** available [here](https://www.dylanleflour.fr)
 
-- 🌱 I’m currently learning **how to make a sdk for my company**
+- 🌱 I’m currently learning **how to make a sdk for my company API**
 
 - 👯 I’m looking to collaborate on **a project based on the League of Legends French League (LFL)**
 
 <!-- - 🤝 I’m looking for help with **...** -->
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://www.dylanleflour.fr/) (website under maintenance, not available at the moment)
+- 👨‍💻 All of my projects are available at [my portfolio](https://www.dylanleflour.fr/project)
 
 <!-- - 📝 I regularly write articles on [...](...) -->
 
@@ -25,7 +25,7 @@
 
 - 📫 You can reach me on **contact@dylanleflour.fr**
 
-- 📄 Know about my experiences [here](https://www.dylanleflour.fr/about) (website under maintenance, not available at the moment)
+- 📄 Know about my experiences [here](https://www.dylanleflour.fr/about)
 
 <!-- - ⚡ Fun fact **...** -->
 
