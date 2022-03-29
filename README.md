@@ -11,7 +11,7 @@ Passionate about agility and practicing it every day, I took the initiative, a f
 
 #### 🐺About me
 
-- 🔭 I’m currently working on **my brand new Vue.js portfolio** available [here](https://www.dylanleflour.fr)
+- 🔭 I’m currently working on **my brand new Vue.js portfolio** available [here](https://www.dylanleflour.fr?utm_source=github&utm_medium=readme&utm_campaign=promote)
 
 - 🌱 I’m currently learning **how to make a sdk for my company API**
 
@@ -19,7 +19,7 @@ Passionate about agility and practicing it every day, I took the initiative, a f
 
 <!-- - 🤝 I’m looking for help with **...** -->
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://www.dylanleflour.fr/project)
+- 👨‍💻 All of my projects are available at [my portfolio](https://www.dylanleflour.fr/project?utm_source=github&utm_medium=readme&utm_campaign=promote)
 
 <!-- - 📝 I regularly write articles on [...](...) -->
 
@@ -27,7 +27,7 @@ Passionate about agility and practicing it every day, I took the initiative, a f
 
 - 📫 You can reach me on **contact@dylanleflour.fr**
 
-- 📄 Know about my experiences [here](https://www.dylanleflour.fr/about)
+- 📄 Know about my experiences [here](https://www.dylanleflour.fr/about?utm_source=github&utm_medium=readme&utm_campaign=promote)
 
 <!-- - ⚡ Fun fact **...** -->
 
