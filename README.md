@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Dylan Le Flour</h1>
-<h3 align="center">I am a French apprentice in Computer & Multimedia Engineering at the Conservatoire National des Arts et Métiers. I'm also an apprenticeship student in a company called Evoliz, which produces an online management and invoicing software. I am a full stack developer in my company, which leads me to develop new features and to fix bugs reported by the customer service.
-<br>
-Passionate about agility and practicing it every day, I took the initiative, a few months ago, to learn about the role of Scrum Master within a development team.</h3>
+<h1 align="center">Hey ! 🖐🏻, I'm Dylan Le Flour</h1>
+<h3 align="center">Welcome to my GitHub profile!
+
+Greatly interested in new technologies, I recently graduated with an Engineering degree in Computer Science & Multimedia 🎓
+
+👀 Curious 
+💥 Determined & Persevering
+🤩 Passionate
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dyrize&label=Profile%20views&color=0e75b6&style=flat" alt="dyrize" /> </p>
 
@@ -9,11 +14,11 @@ Passionate about agility and practicing it every day, I took the initiative, a f
 
 ---
 
-#### 🐺About me
+#### 🐺 About me
 
-- 🔭 I’m currently working on **my brand new Vue.js portfolio** available [here](https://www.dylanleflour.fr)
+- 🔭 I'm currently working on **the redesign of the main software for the company where I work**.
 
-- 🌱 I’m currently learning **how to make a sdk for my company API**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **a project based on the League of Legends French League (LFL)**
 
@@ -33,29 +38,35 @@ Passionate about agility and practicing it every day, I took the initiative, a f
 
 ---
 
-### 🛠Languages & Tools
+### 🛠 Languages & Tools
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=plastic)&nbsp;
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=plastic)&nbsp;
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic)&nbsp;
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=plastic)&nbsp;
+![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=plastic)&nbsp;
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery&logoColor=0766a9)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)&nbsp;
-![Symfony](https://img.shields.io/badge/-Symfony-05122A?style=flat&logo=Symfony)&nbsp;
-![Csharp](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=Csharp)&nbsp;
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic)&nbsp;
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=plastic)&nbsp;
+![Symfony Badge](https://img.shields.io/badge/Symfony-000?logo=symfony&logoColor=fff&style=plastic)&nbsp;
+![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=plastic)&nbsp;
+![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=plastic)&nbsp;
+![Apollo GraphQL Badge](https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=apollographql&logoColor=fff&style=plastic)&nbsp;
 
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=plastic)&nbsp;
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=plastic)&nbsp;
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=plastic)&nbsp;
 
-![PHPStorm](https://img.shields.io/badge/-PHPStorm-05122A?style=flat&logo=PHPStorm&logoColor=8a4de9)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=8c5ec3)&nbsp;
+![Storybook Badge](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff&style=plastic)&nbsp;
+![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=plastic)&nbsp;
+![Vitest Badge](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff&style=plastic)&nbsp;
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![PHPUnit](https://img.shields.io/badge/-PHPUnit-05122A?&style=flat&logo=PHP)&nbsp;
+![PhpStorm Badge](https://img.shields.io/badge/PhpStorm-000?logo=phpstorm&logoColor=fff&style=plastic)&nbsp;
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=plastic)&nbsp;
+
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=plastic)&nbsp;
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=plastic)&nbsp;
+
+<!-- https://badges.pages.dev/ -->
 
 <!-- ### 📈Stats
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dyrize&theme=dracula&hide_border=true)
@@ -69,38 +80,149 @@ Passionate about agility and practicing it every day, I took the initiative, a f
 
 ---
 
-### 🖥️Professional experience
+### 🖥️ Professional experience
 
-#### *09/2019 - today* : **Fullstack web developer** at [Evoliz](https://www.evoliz.com/) - La Garde (83)
-- Work-study program with the CNAM IT engineering school
-- Front-End and Back-End development of the clients' application
-- Development of the back office for customer service
-- Development of a Rest API in Laravel
-- Development of a PHP SDK to facilitate the use of the API
-- Integration of various payment APIs (Paypal, Stripe, PayZen & PayPlug)
-- Bug fixes
+#### *09/2022 - today* : **Full Stack developer** at [La Boîte Immo](https://www.la-boite-immo.com/) - Hyères (83)
+✨ **Hektor Software Division, Redesign Squad**
+
+- **My Missions:**
+  - ✅ Evolution of Hektor software (real estate software)
+  - ✅ Front & Functional redesign of the software
+  - ✅ Correction of critical bugs in legacy code
+  - ✅ Compliance with development standards and qualities
+  - ✅ Provide input on a wide range of subjects
+  - ✅ Maintenance via a ticketing system, emergency management
+  - ✅ Progress on technical debt
+
+- **My Work Tools:**
+  - ✅ Web languages: PHP 7/8 (GraphQL), MySQL, HTML, CSS (Tailwind), JS (React / TypeScript)
+  - ✅ Environment: Docker, Docker Compose, MacOS
+  - ✅ Debian infrastructure
+  - ✅ IDE: Jetbrains Suite
+  - ✅ Quality Tools: ESLint, PHP CS, PHP MD, specially configured for our software
+  - ✅ Agile methods with a Scrum team
+ 
+![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=plastic)&nbsp;
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic)&nbsp;
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=plastic)&nbsp;
+![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=plastic)&nbsp;
+![Apollo GraphQL Badge](https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=apollographql&logoColor=fff&style=plastic)&nbsp;
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=plastic)&nbsp;
+![Storybook Badge](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff&style=plastic)&nbsp;
+![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=plastic)&nbsp;
+![Turborepo Badge](https://img.shields.io/badge/Turborepo-EF4444?logo=turborepo&logoColor=fff&style=plastic)&nbsp;
+![Vitest Badge](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff&style=plastic)&nbsp;
+![PhpStorm Badge](https://img.shields.io/badge/PhpStorm-000?logo=phpstorm&logoColor=fff&style=plastic)&nbsp;
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=plastic)&nbsp;
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=plastic)&nbsp;
+![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff&style=plastic)&nbsp;
+
+✨ **Hektor Software Division, Tools & Partners Squad**
+
+- **My Missions:**
+  - ✅ Development of various products (real estate software, email micro-service, ...)
+  - ✅ Work & exchanges with a partner offering a complete digital solution for real estate professionals
+  - ✅ Respect for development standards and quality
+  - ✅ Be able to make proposals on a wide range of subjects
+  - ✅ Maintenance via a ticketing system, emergency management
+  - ✅ Progress on technical debt
+
+- **My Work Tools:**
+  - ✅ Web languages: PHP 7/8 (Symfony), MySQL/MongoDB, HTML, CSS, JS
+  - ✅ Environment: Docker, Docker Compose, WSL 2 with Debian distro
+  - ✅ Debian infrastructure
+  - ✅ IDE: Jetbrains Suite
+  - ✅ Quality Tools: PHP CS, PHP MD, specially configured for our software
+  - ✅ Agile methods with a Scrum team
+ 
+![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=plastic)&nbsp;
+![Symfony Badge](https://img.shields.io/badge/Symfony-000?logo=symfony&logoColor=fff&style=plastic)&nbsp;
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=plastic)&nbsp;
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=plastic)&nbsp;
+![PhpStorm Badge](https://img.shields.io/badge/PhpStorm-000?logo=phpstorm&logoColor=fff&style=plastic)&nbsp;
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=plastic)&nbsp;
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=plastic)&nbsp;
+![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff&style=plastic)&nbsp;
+
+
+#### *09/2019 - 08/2022* : **Full Stack developer** at [Evoliz](https://www.evoliz.com/) - La Garde (83)
+✨ **Development Department, Work-Study Contract with CNAM**
+
+- **My Missions:**
+  - ✅ Evolution of various products (management and billing software, internal back office for customer service, API REST, ...)
+  - ✅ Work & exchanges with partners offering digital online payment solutions (PayPal, Stripe, PayPlug, PayZen)
+  - ✅ Development of an Open Source SDK to facilitate use of the API, with implementation of a CI
+  - ✅ Development of a WooCommerce Plugin using the SDK to communicate with the API
+  - ✅ Compliance with development standards and qualities
+  - ✅ Maintenance via a ticket system, emergency management
+  - ✅ Progress on technical debt
+
+- **My Work Tools:**
+  - ✅ Web languages: PHP 7 (Laravel), MySQL, HTML, CSS (Bootstrap), JS (jQuery/Vue.js)
+  - ✅ Environment: Docker, Docker Compose, WSL 2
+  - ✅ IDE: Jetbrains Suite
+  - ✅ Agile methods with a Scrum team
+ 
+![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=plastic)&nbsp;
+![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=plastic)&nbsp;
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=plastic)&nbsp;
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=plastic)&nbsp;
+![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=plastic)&nbsp;
+![PhpStorm Badge](https://img.shields.io/badge/PhpStorm-000?logo=phpstorm&logoColor=fff&style=plastic)&nbsp;
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=plastic)&nbsp;
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=plastic)&nbsp;
+![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff&style=plastic)&nbsp;
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=plastic)&nbsp;
+
 
 #### *01/2019 - 02/2019* : BTS intership at [Evoliz](https://www.evoliz.com/) - La Garde (83)
-- Visual redesign and various improvements on the Administrator part of the Evoliz software in order to make the tool consistent with the front office part and to make it more intuitive and pleasant to use.
-Follow-up of the improvement requests from the Customer Service team using this Administrator part on a daily basis and management of the authorizations to limit access to certain types of users.
-Implementation of an agile methodology like Scrum with code reviews, print retrospectives, planning of the different tasks of the sprints and the use of a Scrum Board managed by a Scrum Master.
+✨ **Development Service, BTS Intern**
+
+- **My Missions:**
+  - ✅ Graphic redesign and various improvements on the internal back office for the customer service
+  - ✅ Homogenization with the front office, work on user experience
+  - ✅ Monitoring customer service requests
+  - ✅ Management of authorizations to limit access to certain types of users
+
+- **My Work Tools:**
+  - ✅ Web languages: PHP 5.6, MySQL, HTML, CSS (Bootstrap), JS (jQuery)
+  - ✅ Environment: Docker, Docker Compose, Windows
+  - ✅ IDE: Jetbrains Suite
+  - ✅ Agile methods with a Scrum team
+ 
+![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=plastic)&nbsp;
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=plastic)&nbsp;
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=plastic)&nbsp;
+![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=plastic)&nbsp;
+![PhpStorm Badge](https://img.shields.io/badge/PhpStorm-000?logo=phpstorm&logoColor=fff&style=plastic)&nbsp;
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=plastic)&nbsp;
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=plastic)&nbsp;
+![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff&style=plastic)&nbsp;
 
 #### *05/2018 - 06/2018* : BTS internship at CPAM of Toulon (83)
-- Development of an application to group all the accounting tables in order to reduce data entry and errors and increase efficiency.
-The assembly of tables allowing to know the points of great expenditure to be able to answer the requests of economy of the National Fund.
-The data entered is sensitive since it concerns the accounts of the CPAM du Var, and is therefore archived each year for modification or addition of late invoices.
-With a volume of several million expenses per year, a monthly control as well as a duplicate management are necessary.
+✨ **Local IT Service, BTS Intern**
+
+- **My Missions:**
+  - ✅ Development of an application aimed at consolidating all accounting tables to reduce entries and errors and increase efficiency.
+  - ✅ Management of sensitive data
+
+- **My Work Tools:**
+  - ✅ Web languages: JEE, MySQL, HTML, CSS, JS
+  - ✅ Environment: Linux
+  - ✅ IDE: Eclipse
+  - ✅ Agile methods
+
 
 ---
 
-### 🌍Personal investment
+### 🌍 Personal investment
 
 #### *Since 2021* : [Time for the Planet](https://www.time-planet.com/en) **associate and shareholder**
 - Financial participation to develop durable and sustainbly innovations for a more desirable future.
 
 ---
 
-### 👨‍🎓Education
+### 👨‍🎓 Education
 #### *09/2019 - today* : [CNAM IT engineering school](https://formation.cnam.fr/rechercher-par-discipline/ingenieur-e-informatique-et-multimedia-technologies-du-jeu-video-et-systemes-interactifs-1275873.kjsp) - Toulon (83)
 - OOP, web development, algorithmics, Unity3D, signal processing, databases, UX/UI design, Agile and team management, software engineering, entrepreneurship, OS theory, cognitive psychology, introduction to research and innovation, sentiment analysis, low level networking
 - Last year option: Big Data
@@ -115,10 +237,11 @@ With a volume of several million expenses per year, a monthly control as well as
 
 ---
 
-### 👨‍💻Formations / Certifications
+### 👨‍💻 Formations / Certifications
 - CNIL: RGPD Workshop (2020)
 - TOEIC: 900/990 (2021)
-- Udemy: Vue.js
+- Udemy: Vue.js, PHP SOLID principles
+- ib Cegos: ReactJS
 
 
 <!-- <h3 align="left">Connect with me:</h3>
