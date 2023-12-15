@@ -77,6 +77,7 @@ Passionate about agility and practicing it every day, I took the initiative, a f
 - Development of the back office for customer service
 - Development of a Rest API in Laravel
 - Development of a PHP SDK to facilitate the use of the API
+- Integration of various payment APIs (Paypal, Stripe, PayZen & PayPlug)
 - Bug fixes
 
 #### *01/2019 - 02/2019* : BTS intership at [Evoliz](https://www.evoliz.com/) - La Garde (83)
