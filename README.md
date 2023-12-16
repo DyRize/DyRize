@@ -44,12 +44,12 @@ Greatly interested in new technologies, I recently graduated with an Engineering
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic)&nbsp;
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=plastic)&nbsp;
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=plastic)&nbsp;
+![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=plastic)&nbsp;
 
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic)&nbsp;
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=plastic)&nbsp;
 ![Symfony Badge](https://img.shields.io/badge/Symfony-000?logo=symfony&logoColor=fff&style=plastic)&nbsp;
 ![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=plastic)&nbsp;
-![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=plastic)&nbsp;
 ![Apollo GraphQL Badge](https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=apollographql&logoColor=fff&style=plastic)&nbsp;
 
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=plastic)&nbsp;
@@ -95,7 +95,7 @@ Greatly interested in new technologies, I recently graduated with an Engineering
   - ✅ Progress on technical debt
 
 - **My Work Tools:**
-  - ✅ Web languages: PHP 7/8 (GraphQL), MySQL, HTML, CSS (Tailwind), JS (React / TypeScript)
+  - ✅ Web languages: PHP 7/8, MySQL, HTML, CSS (Tailwind), JS (React / TypeScript), Apollo & GraphQL
   - ✅ Environment: Docker, Docker Compose, MacOS
   - ✅ Debian infrastructure
   - ✅ IDE: Jetbrains Suite
